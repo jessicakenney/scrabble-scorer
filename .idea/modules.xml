@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-scorer.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-scorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-scorer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-scorer_main.iml" group="scrabble-scorer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scrabble-scorer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scrabble-scorer_test.iml" group="scrabble-scorer" />
+    </modules>
+  </component>
+</project>
